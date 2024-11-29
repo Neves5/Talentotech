@@ -25,3 +25,13 @@ Criar um aplicativo simples de "Lista de Tarefas" onde o usuário pode adicionar
 - feature/adicionar-tarefa: Para implementar a funcionalidade de adicionar tarefa.
 - feature/editar-remover-tarefa: Para funcionalidades de editar e remover tarefas.
 - feature/marcar-como-concluida: Para a funcionalidade de marcar tarefas como concluídas.
+
+## Uso de Commits Frequentes
+Commit 1: git commit -m "Estrutura inicial do projeto e setup básico"
+Commit 2: git commit -m "Formulário de adicionar tarefa completo"
+Commit 3: git commit -m "Estilização básica da página de tarefas"
+
+## Documentação O Git foi utilizado ao longo do projeto para gerenciar as diferentes funcionalidades e mudanças no código. Criamos uma branch para cada funcionalidade, o que permitiu o desenvolvimento paralelo e a fácil integração de novos recursos no código principal.
+
+O entendimento do processo da exucução foi um pouco dificil e complicado, por ser uma plataforma nova, não se tinha muito conhecimento sobre suas funcionalidades.
+Sinto que precisarei de mais explicação, para executar essa atividades. 
